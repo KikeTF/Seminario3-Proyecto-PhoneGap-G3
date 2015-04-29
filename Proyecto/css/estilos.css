@@ -1,0 +1,55 @@
+#cabecera{
+	background-color:orange;
+	height:150px;
+}
+
+#menu{
+	background-color:green;
+	height:100%;
+	float:right;
+}
+
+#galeria{
+	background-color:#A4B9D6;
+	height:100%;
+	
+}
+
+#contenedor_izquierdo{
+	background-color:#BBD6A4;
+	height:100%;
+}
+
+#contenedor_derecho{
+	background-color:#D6BFA4;
+	height:450px;
+}
+
+#pie_pagina{
+	background-color:#A4D6AC;
+	height:200px;
+}
+
+#navegador ul{
+   
+   text-align: center;
+   margin:auto;
+}
+
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: auto;
+   float:right;
+}
+
+#navegador li a {
+   padding: 15px 7px 2px 7px;
+   color: black;
+   font-family:verdana;   
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: #333333;
+   color: #ffffff;
+}
